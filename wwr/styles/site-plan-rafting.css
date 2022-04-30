@@ -16,9 +16,9 @@ Fonts are separated by a | */
   --paragraph-font: Poppins, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
+  --headline-color-on-white: #05a8aa;  /* headlines on a white background */ 
   --headline-color-on-color: #F2FF49; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
+  --paragraph-color-on-white: #05a8aa; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #f2ff49; /* paragraph text on a colored background */ 
   --paragraph-background-color: #05A8AA  ;
   --nav-link-color: #396E94;
