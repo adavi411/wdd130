@@ -1,5 +1,7 @@
 img {
+    display: block;
     width: 80%;
+    margin: auto;
 }
 p {
     width: 80%;
