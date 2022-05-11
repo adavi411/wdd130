@@ -9,9 +9,7 @@ p {
 a {
     font-size: 1.5em;
 }
-* {
-    border: 1px solid blue;
-}
+
 h1 {
     text-align: center;
 }
@@ -20,6 +18,11 @@ nav {
 }
 main p {
     width: 80%;
-    margin: 0 auto;
+    margin: 50px auto;
+    text-align: center;
+}
+footer {
+    background-color: steelblue;
+    color: white;
     text-align: center;
 }
