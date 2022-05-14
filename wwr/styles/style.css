@@ -18,7 +18,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #78c5d7;
+    background-color: #ece9e9;
 }
 header {
     background-color: #134266;
@@ -27,10 +27,10 @@ nav a:hover {
     background-color: #7b7263;
 }
 .book, .join {
-    background-color: #134266;
+    background-color: #78c5d7;
 }
 .book:hover, .join:hover {
-    background-color: #78c5d7;
+    background-color: #fce172;
 }
 #background {
     background-color: #e0f2f6;
