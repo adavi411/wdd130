@@ -21,8 +21,7 @@ main p {
     margin: 50px auto;
     text-align: center;
 }
-footer {
+nav, footer {
     background-color: steelblue;
     color: white;
-    text-align: center;
 }
