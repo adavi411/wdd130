@@ -28,7 +28,10 @@ main section {
 }
 body {
     font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 22px;
     background-color: #ece9e9;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: #134266;
@@ -61,6 +64,9 @@ footer {
 }
 h4 {
     color: black;
+}
+h2 {
+    margin: 0;
 }
 .msg h2 {
     font-family: 'Rock Salt', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
