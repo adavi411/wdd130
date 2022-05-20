@@ -83,10 +83,11 @@ h2 {
     padding: 35px;
 }
 .msg p {
+    background-color: #134266;
     font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: .8em;
     line-height: 1.5em;
-    color: black;
+    color: white;
     padding-bottom: 15px;
 }
 footer h3 {
