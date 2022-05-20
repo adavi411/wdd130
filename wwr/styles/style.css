@@ -38,8 +38,8 @@ header {
     background-color: #134266;
 }
 nav a:hover {
-    background-color: #7b7263;
-    color: #fce172;
+    background-color: #fce172;
+    color: black;
 }
 .book, .join {
     background-color: #78c5d7;
