@@ -49,6 +49,7 @@ nav a:hover {
     text-decoration: none;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover, .join:hover {
     background-color: #fce172;
@@ -121,4 +122,10 @@ nav {
 }
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
+}
+.card-img {
+    border: solid #fce172;
+}
+main section img {
+    box-sizing: border-box;
 }
