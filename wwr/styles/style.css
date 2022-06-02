@@ -36,6 +36,8 @@ body {
 }
 header {
     background-color: #134266;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 nav a:hover {
     background-color: #fce172;
@@ -118,7 +120,15 @@ footer .social img {
     width: 100%;
 }
 nav {
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    justify-self: center;
+    align-self: center;
+}
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
