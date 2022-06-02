@@ -87,6 +87,8 @@ h2 {
     color: black;
 }
 .msg {
+    background-color: #134266;
+    color: lightgray;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
@@ -95,7 +97,7 @@ h2 {
     font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: .8em;
     line-height: 1.5em;
-    color: black;
+    color: lightgray;
     padding-bottom: 15px;
 }
 footer h3 {
