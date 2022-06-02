@@ -66,6 +66,9 @@ footer {
     background-color: #134266;
     padding: 25px 50px;
     margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .home-title {
     font-family: 'Rock Salt', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
