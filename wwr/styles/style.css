@@ -73,7 +73,7 @@ footer {
 .home-title {
     font-family: 'Rock Salt', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 2em;
-    color: black;
+    color: #fce172;
     margin-top: 10px;
 }
 h4 {
@@ -189,9 +189,6 @@ main section img {
 .mountains {
     grid-column: 2/7;
     grid-row: 5/8;
-}
-.msg h2 {
-    color: #fce172;
 }
 .msg h2 {
     color: #fce172;
