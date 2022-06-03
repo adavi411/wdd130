@@ -193,3 +193,12 @@ main section img {
 .msg h2 {
     color: #fce172;
 }
+.card-img {
+    border: 10px solid #fce172;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #134266;
+}
+.card-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
