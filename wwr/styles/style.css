@@ -190,7 +190,7 @@ main section img {
 .mountains {
     grid-column: 2/7;
     grid-row: 5/8;
-    box-shadow: #134266;
+    box-shadow: 5px 5px 10px #134266;
 }
 .msg h2 {
     color: #fce172;
@@ -204,3 +204,4 @@ main section img {
     opacity: .6;
     transform: scale(1.1);
 }
+
