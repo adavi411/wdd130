@@ -92,6 +92,7 @@ h2 {
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
+    box-shadow: 5px 5px 10px #134266;
 }
 .msg p {
     font-family: poppins, Arial, Helvetica, sans-serif;
@@ -189,6 +190,7 @@ main section img {
 .mountains {
     grid-column: 2/7;
     grid-row: 5/8;
+    box-shadow: #134266;
 }
 .msg h2 {
     color: #fce172;
