@@ -205,7 +205,39 @@ main section img {
     transform: scale(1.1);
 }
 
+/* rivers.html content */
+.rivers-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
 
+
+.salmon-river p {
+    font-family: poppins, Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    line-height: 1.5em;
+    color: black;
+    padding: 25px; 
+}
+
+.desolation-river p {
+    font-family: poppins, Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    line-height: 1.5em;
+    color: black;
+    padding: 25px;
+}
+
+
+.canyon-river p {
+    font-family: poppins, Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    line-height: 1.5em;
+    color: black;
+    padding: 25px;
+}
+
+/* media content */
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
