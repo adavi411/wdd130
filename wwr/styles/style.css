@@ -216,6 +216,9 @@ main section img {
     border: 10px solid #fce172;
     box-shadow: 5px 5px 10px#134266
 }
+.salmon-river h2 {
+    padding: 25pz;
+}
 .salmon-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: .8em;
@@ -227,6 +230,9 @@ main section img {
 .desolation-river-img {
     border: 10px solid #fce172;
     box-shadow: 5px 5px 10px#134266
+}
+.desolation-river h2 {
+    padding: 25px;
 }
 .desolation-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
@@ -240,6 +246,9 @@ main section img {
 .canyon-river-img {
     border: 10px solid #fce172;
     box-shadow: 5px 5px 10px#134266
+}
+.canyon-river h2 {
+    padding: 25px;
 }
 .canyon-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
