@@ -211,7 +211,7 @@ main section img {
     grid-template-columns: repeat(10, 1fr);
     justify-content: left;
 }
-.subpaage-title {
+.subpage-title {
     font-family: 'Rock Salt', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 8em;
     color: #134266;
