@@ -214,7 +214,8 @@ main section img {
 .subpage-title h1 {
     font-family: 'Rock Salt', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 8em;
-    color: #134266;
+    background-color: #134266; 
+    color: #fce172;
     margin-top: 10px;
 }
 .salmon-river-img {
