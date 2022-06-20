@@ -213,7 +213,8 @@ main section img {
 }
 
 .salmon-river-img {
-    border: 10px solid #fce172
+    border: 10px solid #fce172;
+    box-shadow: 5px 5px 10px#134266
 }
 .salmon-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
