@@ -224,6 +224,10 @@ main section img {
     padding: 25px; 
 }
 
+.desolation-river-img {
+    border: 10px solid #fce172;
+    box-shadow: 5px 5px 10px#134266
+}
 .desolation-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: .8em;
@@ -233,6 +237,10 @@ main section img {
 }
 
 
+.canyon-river-img {
+    border: 10px solid #fce172;
+    box-shadow: 5px 5px 10px#134266
+}
 .canyon-river p {
     font-family: poppins, Arial, Helvetica, sans-serif;
     font-size: .8em;
